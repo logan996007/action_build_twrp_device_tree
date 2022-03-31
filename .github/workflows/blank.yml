@@ -10,7 +10,7 @@ on:
       IMG_URL:
         description: 'IMG_URL'
         required: true
-        default: 'http://101.35.101.159:8888/down/kkNZHbMnpAY0'
+        default: 'http://www.logan996.cn:999/boot.img'
 
 jobs:
   build:
